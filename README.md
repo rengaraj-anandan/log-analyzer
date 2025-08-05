@@ -5,6 +5,7 @@
 
 A powerful web-based tool for analyzing web server access logs with advanced filtering, visualization, and reporting capabilities.
 
+![Logo](https://github.com/rengaraj-anandan/log-analyzer/blob/main/Log-Analyzer-Website-Statistics-08-05-2025_01_47_PM.png)
 
 ## 📋 Table of Contents
 
@@ -91,8 +92,6 @@ Log Analyzer transforms complex web server logs into actionable insights through
 3. Click "Search" to analyze logs
 4. View visualizations and data tables
 5. Use filters to refine results
-
-![Logo](https://github.com/rengaraj-anandan/log-analyzer/blob/main/Log-Analyzer-Website-Statistics-08-05-2025_01_47_PM.png)
 
 ## 📖 Usage Guide
 
