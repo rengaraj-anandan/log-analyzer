@@ -92,6 +92,8 @@ Log Analyzer transforms complex web server logs into actionable insights through
 4. View visualizations and data tables
 5. Use filters to refine results
 
+![Logo](https://github.com/rengaraj-anandan/log-analyzer/blob/main/Log-Analyzer-Website-Statistics-08-05-2025_01_47_PM.png)
+
 ## 📖 Usage Guide
 
 ### Analyzing Log Files
@@ -172,3 +174,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
